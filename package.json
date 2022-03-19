@@ -1,0 +1,21 @@
+{
+  "name": "tomorrow-house2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass -w ./styles/main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brogod97/tomorrow-house2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brogod97/tomorrow-house2/issues"
+  },
+  "homepage": "https://github.com/Brogod97/tomorrow-house2#readme"
+}
