@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Brogod97/tomorrow-house2/issues"
   },
-  "homepage": "https://github.com/Brogod97/tomorrow-house2#readme"
+  "homepage": "https://github.com/Brogod97/tomorrow-house2#readme",
+  "devDependencies": {
+    "sass-lint": "^1.13.1"
+  }
 }
